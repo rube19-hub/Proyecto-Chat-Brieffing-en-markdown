@@ -26,7 +26,7 @@
 | • Reenviar (4) | 
 | • Biblio Docs (4) | 
 
-* Los números indican la prioridad para hacer*
+* Los números indican la prioridad para hacer
 
 ---
 
