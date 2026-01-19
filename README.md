@@ -14,8 +14,8 @@
 
 | Funcionales (Capacidades) | No funcionales (Tecnología) |
 | :--- | :--- |
-| • Enviar mensajes (1)  | • Server $\rightarrow$ Java |
-| • Recibir mensaje(1)  | • Cliente $\rightarrow$ Python / QtDesigner |
+| • Enviar mensajes (1)  | • Server --> Java |
+| • Recibir mensaje(1)  | • Cliente --> Python / QtDesigner |
 | • ¿Documentos? (2) | • Librería: PySide 6 |
 | • Registro horario (1) | • Time Stamp + User name + Mensaje encriptado |
 | • ¿Visto mensaje? (2) | • Sticker (2) |
